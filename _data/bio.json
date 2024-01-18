@@ -1,96 +1,122 @@
 {
-  "basics": {
-    "name": "Sean Fujii",
-    "label": "Student",
-    "picture": "https://github.com/seanf2UH/seanf2UH.github.io/blob/main/img/Profile_Image.png?raw=true",
-    "email": "seanf2@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://seanf2uh.github.io/",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I am also working towards my Creative Computational Certificate. I expect to graduate in Spring or Fall, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "seanf2UH", "url": "https://github.com/seanf2UH" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/sean-fujii-68a6a52a9/" }
+    "basics": {
+        "name": "Sean Fujii",
+        "label": "Student",
+        "picture": "https://github.com/seanf2UH/seanf2UH.github.io/blob/main/img/Profile_Image.png?raw=true",
+        "email": "seanf2@hawaii.edu",
+        "phone": "808-333-4444",
+        "website": "https://seanf2uh.github.io/",
+        "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I am also working towards my Creative Computational Certificate. I expect to graduate in Spring or Fall, 2025.",
+        "location": {
+            "address": "",
+            "postalCode": "96822",
+            "city": "Honolulu",
+            "countryCode": "USA",
+            "region": "Hawaii"
+        },
+        "profiles": [
+            {
+                "network": "github",
+                "username": "seanf2UH",
+                "url": "https://github.com/seanf2UH"
+            },
+            {
+                "network": "linkedin",
+                "username": "mollymaluhia",
+                "url": "https://www.linkedin.com/in/sean-fujii-68a6a52a9/"
+            }
+        ]
+    },
+    "interests": [
+        {
+            "name": "Interactive media"
+        },
+        {
+            "name": "3D Computer Animation"
+        },
+        {
+            "name": "Presentation design"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Languages and Frameworks",
+            "keywords": [
+                "C",
+                "C++",
+                "Java",
+                "Javascript"
+            ]
+        },
+        {
+            "name": "Toolsets/OS",
+            "keywords": [
+                "MacOS",
+                "Git/GitHub"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Hawaii, Honolulu, HI",
+            "area": "Computer Science (expected Spring or Fall, 2025)",
+            "studyType": "B.A.",
+            "startDate": "2021-08-23",
+            "endDate": "Present",
+            "courses": []
+        }
+    ],
+    "work": [
+        {
+            "company": "TBD",
+            "position": "N/A",
+            "website": "",
+            "startDate": "N/A",
+            "endDate": "N/A",
+            "summary": "N/A",
+            "highlights": [
+                "N/A"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Center for Renewable Energy and Island Sustainability",
+            "website": "http://manoa.hawaii.edu/reis",
+            "position": "Software Developer",
+            "startDate": "2016-01-01",
+            "endDate": "Present",
+            "summary": "Lead developer for weather sensing project",
+            "highlights": [
+                "Design firmware for distributed weather sensor network",
+                "Maintain custom data collection and storage infrastructure"
+            ]
+        },
+        {
+            "organization": "",
+            "website": "",
+            "position": "Professional organization involvement",
+            "startDate": "",
+            "endDate": "",
+            "summary": "",
+            "highlights": [
+                "Chair, ACM Manoa, 2016-Present",
+                "Member, IEEE Student Branch, 2014-Present",
+                "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Honors in KalaniHigh School",
+            "date": "2017-2021",
+            "awarder": "State of Hawaii",
+            "summary": "Students who graduate with a GPA of 3.0 or higher at a Hawai'i public school."
+        }
+    ],
+    "references": [
+        {
+            "name": "Available upon request"
+        }
     ]
-  },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "3D Computer Animation" },
-    { "name": "Presentation design" },   
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring or Fall, 2025)",
-      "studyType": "B.A.",
-      "startDate": "2021-08-23",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": TBD",
-      "position": "N/A",
-      "website": "",
-      "startDate": "N/A",
-      "endDate": "N/A",
-      "summary": "N/A",
-      "highlights": [
-        "N/A"
-      ]
-    },
-
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Honors in KalaniHigh School",
-      "date": "2017-2021",
-      "awarder": "State of Hawaii",
-      "summary": "Students who graduate with a GPA of 3.0 or higher at a Hawai'i public school."
-    },
-  ]
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
 }
