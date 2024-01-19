@@ -4,7 +4,7 @@ type: project
 image: img/img.png
 title: "3D Animation"
 date: 2024-18-01
-published: false
+published: true
 labels:
   - Source Filmmaker
   - 3D Animation
