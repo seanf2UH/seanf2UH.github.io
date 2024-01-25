@@ -9,6 +9,7 @@ labels:
   - Reflection
   - Experience
 ---
+<img class="img-fluid" src="../img/JavaScript-logo.png" width="500" height="500">
 # E10 Reflect on JavaScript 1
 So far, JavaScript has been a pretty interesting experience thus far. While I am a complete beginner to this language, there are many familiar coding practices such as loops, while, recursion, etc. Layouts for the functions also seem to remind me of more C and C++ over Java itself. I don&rsquo;t know if it was this but I feel like JavaScript and C Programming feel less, clunky and crowded. But the latter could have been just due to my inexperience with the language since I was starting from square one. In connection with ES6 however, I learned quite a bit about Arrow functions Object Literal declarations, and more. Being able to pass arguments and define objects without the need to repeat is something useful. But I know that'll take me a while how to implement them by myself as I am now aware of a lot of the stuff introduced, but figuring out when to apply them is the difficult part. But like how other programs work, there is that sense of familiar content that can be transferred over to help gain a much stronger head start!
 
