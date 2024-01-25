@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Writing a Question"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-125
+date: 2024-01-25
 published: true
 labels:
   - Reflection
