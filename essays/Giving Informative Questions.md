@@ -4,13 +4,14 @@ type: essay
 title: "Writing a Question"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-125
-published: false
+published: true
 labels:
   - Reflection
   - Experience
   - Questions & Answers
   - Stack Overflow
 ---
+<img class="img-fluid" src="../img/Logos.png">
 
 ## The Online Library Community
 Forum discussions, group discussions, and online community pools are some of the many different places that help provide a place for others to post their questions. These questions could be answered by pretty much be answered by anyone so a variety of answers can come in. But of course, the quality of the answer can be influenced by how the questions are delivered. 
@@ -26,4 +27,5 @@ But of course, there are some questions such as this discussion about why an arr
 Reading about Raymond’s guidelines on smart questions and checking out other people’s posts has helped me see and understand how to properly make a good question post even if the program is not related to coding. It is a strong way to provide an effective discussion for the person seeking an answer and for the reader to deliver an answer they would be happy to help out with.
 
 Source: <a href="https://stackoverflow.com/questions/8264432/how-to-create-rooms-in-a-text-based-gamebeginner"><i class="large github icon "></i>Example 1: Create rooms in a Text Based Game</a>
+
 Source: <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array"><i class="large github icon "></i>Example 2: Why Processing is a sorted array faster than processing an array?</a>
