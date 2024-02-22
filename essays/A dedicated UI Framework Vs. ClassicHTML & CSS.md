@@ -11,7 +11,7 @@ labels:
   - HTML & CSS
   - Bootstrap
 ---
-<img class="img-fluid" src="..img/HTML:CSS Vs BootStrap.png">
+<img class="img-fluid" src="../img/ImgCSS_Vs_BootStrap.png">
 
 ## Starting Place
 HTML & CSS Hypertext and StyleSheet, respectively, have been a handy tool in creating various websites. Some of these websites can look complicated with various buttons, positioning, headers, navigation bars, etc. Learning how to implement them can turn out to be fairly straightforward with proper utilities by adding their respective width, and dimensions, to their tags such as the ones below. 
