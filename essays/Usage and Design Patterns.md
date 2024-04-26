@@ -20,5 +20,6 @@ An example of this could be the Creational Pattern. The main idea of this patter
 
 # Usage in Game Development!
 <img class="img-fluid" src="../img/Design_Pattern.png">
+
 In the usage of what was done in our project, so far, we are looking into the implementation of the Professor Trading Card Game! Currently, we have the process broken down into separate issues such as how the cards are built. With this, we attempted to build a system that focused on a Factory Pattern. For the cards, while not built like a constructor, follow an idea where we had the layout of where the cards have the common things like name, style, dimensions, and more. As every card would produce a slightly different appearance. Of course, each defined part would do a specific thing as it wouldn’t be returning everything but rather the specific ID element that would correlate to that person. This is what makes every person’s card collection profile unique in that it checks what cards they have and what cards they don’t have so that they don’t reveal card information that they haven’t seen. 
 
