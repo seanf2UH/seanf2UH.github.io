@@ -4,7 +4,7 @@
         "label": "Student",
         "picture": "https://github.com/seanf2UH/seanf2UH.github.io/blob/main/img/Profile_Image.png?raw=true",
         "email": "seanf2@hawaii.edu",
-        "phone": "808-333-4444",
+        "phone": "808-347-3969",
         "website": "https://seanf2uh.github.io/",
         "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I am also working towards my Creative Computational Certificate. I expect to graduate in Spring or Fall, 2025.",
         "location": {
@@ -35,7 +35,7 @@
             "name": "3D Computer Animation"
         },
         {
-            "name": "Presentation design"
+            "name": "UI Design"
         }
     ],
     "skills": [
@@ -62,7 +62,7 @@
             "area": "Computer Science (expected Spring or Fall, 2025)",
             "studyType": "B.A.",
             "startDate": "2021-08-23",
-            "endDate": "Present",
+            "endDate": "TBD",
             "courses": []
         }
     ],
@@ -81,34 +81,21 @@
     ],
     "volunteer": [
         {
-            "organization": "Center for Renewable Energy and Island Sustainability",
-            "website": "http://manoa.hawaii.edu/reis",
-            "position": "Software Developer",
-            "startDate": "2016-01-01",
-            "endDate": "Present",
-            "summary": "Lead developer for weather sensing project",
-            "highlights": [
-                "Design firmware for distributed weather sensor network",
-                "Maintain custom data collection and storage infrastructure"
-            ]
-        },
-        {
-            "organization": "",
+            "organization": "TBD",
             "website": "",
-            "position": "Professional organization involvement",
-            "startDate": "",
+            "position": "",
+            "startDate": "2016-01-01",
             "endDate": "",
             "summary": "",
             "highlights": [
-                "Chair, ACM Manoa, 2016-Present",
-                "Member, IEEE Student Branch, 2014-Present",
-                "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+                "",
+                ""
             ]
-        }
+        },
     ],
     "awards": [
         {
-            "title": "Honors in KalaniHigh School",
+            "title": "Honors in Kalani High School",
             "date": "2017-2021",
             "awarder": "State of Hawaii",
             "summary": "Students who graduate with a GPA of 3.0 or higher at a Hawai'i public school."
