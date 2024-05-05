@@ -18,5 +18,5 @@ to possibly gain more knowledge on how I could potentially apply technically tow
 animation, lighting, and depth.
 
 
-Source: <a href="[https://www.youtube.com/@Thermallax"><i class="large github icon "></i>Channel Source</a>
+Source: <a href="https://www.youtube.com/@Thermallax"><i class="large github icon "></i>Channel Source</a>
 
