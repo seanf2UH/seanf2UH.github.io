@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Professor_Card_Title.png
 title: "Professor Card Trading Game"
-date: 207
+date: 2024-05-05
 published: true
 labels:
   - JavaScript
