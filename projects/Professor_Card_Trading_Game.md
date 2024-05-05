@@ -35,4 +35,4 @@ thanks to the professors giving us a choice to go in our direction for this assi
 
 <hr>
 
-Source: <a href="146.190.123.195"><i class="large github icon "></i>Professor Card Trading Game</a> <a href="https://academic-flow.github.io/"><i class="large github icon "></i>Professor Card Trading Game</a>
+Source: <a href="https://academic-flow.github.io/"><i class="large github icon"></i>Academic-Flow</a>
