@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Greenfoot_img.png
+image: img/Professor_Card_Title.png
 title: "Professor Card Trading Game"
 date: 207
 published: true
@@ -12,7 +12,7 @@ labels:
   - HTML - CSS
 summary: "A Javascript program game that plays out similar to a Card Trading Game!"
 ---
-
+<img class="img-fluid" src="../img/Card Cover.png">
 The Professor Card Trading Game is a Group Project that I and three other members worked on to create our final project. For this game, students can initiate peer-to-peer connections with newly assigned cards at the start of each semester! These cards will be professors that have varying rarity and can be used to trade among students!
 Professors will also have the chance to create special cards themselves to reward students for any kind of academic excellence of their choice!
 
