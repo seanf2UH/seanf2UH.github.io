@@ -47,4 +47,4 @@ place has been deserted. I better check inside the buildings and see if there is
 
 <hr>
 
-Source: <a href="[https://github.com/jogarces/ics-313-text-game](https://drive.google.com/file/d/1WL6mXVdXN5YMaNpwXntmcV8a4UryVgKn/view?usp=sharing)https://drive.google.com/file/d/1WL6mXVdXN5YMaNpwXntmcV8a4UryVgKn/view?usp=sharing"><i class="large github icon "></i>GreenfootDragonRPGGame</a>
+Source: <a href="https://drive.google.com/file/d/1WL6mXVdXN5YMaNpwXntmcV8a4UryVgKn/view?usp=sharing"><i class="large github icon "></i>GreenfootDragonRPGGame</a>
